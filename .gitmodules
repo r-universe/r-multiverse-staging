@@ -16,6 +16,10 @@
 	url = https://github.com/apache/arrow-adbc
 	branch = 37f79efbcd1641e6906a36e76df57cb896f2bc68
 	subdir = r/adbcflightsql
+[submodule "audio.vadwebrtc"]
+	path = audio.vadwebrtc
+	url = https://github.com/bnosac/audio.vadwebrtc
+	registered = false
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
