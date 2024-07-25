@@ -2,3 +2,89 @@
 	path = .registry
 	url = https://github.com/r-multiverse/staging
 	branch = HEAD
+[submodule "SBC"]
+	path = SBC
+	url = https://github.com/hyunjimoon/SBC
+	branch = 9ddc803105f5350dae6efb4ae2657e89d2a54aa8
+[submodule "adbcdrivermanager"]
+	path = adbcdrivermanager
+	url = https://github.com/apache/arrow-adbc
+	branch = 37f79efbcd1641e6906a36e76df57cb896f2bc68
+	subdir = r/adbcdrivermanager
+[submodule "adbcflightsql"]
+	path = adbcflightsql
+	url = https://github.com/apache/arrow-adbc
+	branch = 37f79efbcd1641e6906a36e76df57cb896f2bc68
+	subdir = r/adbcflightsql
+[submodule "cmdstanr"]
+	path = cmdstanr
+	url = https://github.com/stan-dev/cmdstanr
+	branch = 02259ef7aa2a8b1c8de2fa3fc42a9feafd789288
+[submodule "crew"]
+	path = crew
+	url = https://github.com/wlandau/crew
+	branch = 8ca02085fb1880ad87788bd1eb0ca331da69e60e
+[submodule "duckdb"]
+	path = duckdb
+	url = https://github.com/duckdb/duckdb-r
+	branch = 7d8ba88961d847bc2e95a350b214d22db6847f43
+[submodule "glaredb"]
+	path = glaredb
+	url = https://github.com/eitsupi/r-glaredb
+	branch = 10e2d584c77e1b8fee74495cb4945041b9bbf694
+[submodule "httpgd"]
+	path = httpgd
+	url = https://github.com/nx10/httpgd
+	branch = b0a5ec38638ca69e3adbc7b24d815757e5f74817
+[submodule "ichimoku"]
+	path = ichimoku
+	url = https://github.com/shikokuchuo/ichimoku
+	branch = 5eff99f0bb55c0ff3b6b6a9eb67d690631b5c46b
+[submodule "igraph"]
+	path = igraph
+	url = https://github.com/igraph/rigraph
+	branch = 476886da2b41a4d937543278dc12044889c9d4ca
+[submodule "later"]
+	path = later
+	url = https://github.com/r-lib/later
+	branch = 0668a280c2d851fbff63da4e6a1def7fbcfb2f81
+[submodule "mirai"]
+	path = mirai
+	url = https://github.com/shikokuchuo/mirai
+	branch = 2b2c9120529ae40175f65d20bccdb8a3a967c7e5
+[submodule "multitools"]
+	path = multitools
+	url = https://github.com/r-multiverse/multitools
+	branch = c73b933868d8c6884df4220c25779cd0874ec7de
+[submodule "multiverse.internals"]
+	path = multiverse.internals
+	url = https://github.com/r-multiverse/multiverse.internals
+	branch = 6c6d5019172a59d990ce131cf1bed077c8832920
+[submodule "nanonext"]
+	path = nanonext
+	url = https://github.com/shikokuchuo/nanonext
+	branch = 17536aa86996308095c6814a8ab2cbec9f5354fd
+[submodule "polars"]
+	path = polars
+	url = https://github.com/pola-rs/r-polars
+	branch = e10e2595a0d3b125ad3e743763245dbfffd0270b
+[submodule "secretbase"]
+	path = secretbase
+	url = https://github.com/shikokuchuo/secretbase
+	branch = 825b313ca882410c19440aa8eb71b57a299dfc6d
+[submodule "string2path"]
+	path = string2path
+	url = https://github.com/yutannihilation/string2path
+	branch = 38ce124866879d485f667b7bf3d2a070e6cb37d3
+[submodule "targetsketch"]
+	path = targetsketch
+	url = https://github.com/wlandau/targetsketch
+	branch = a199a734b16f91726698a19e5f147f57f79cb2b6
+[submodule "tidytensor"]
+	path = tidytensor
+	url = https://github.com/oneilsh/tidytensor
+	branch = 14f5b87d2dfae20eb35cfd974adf660a4fd89980
+[submodule "zstdlite"]
+	path = zstdlite
+	url = https://github.com/coolbutuseless/zstdlite
+	branch = 585458ccbe36eaa179d8b30f04f1e3a91dc6b993
