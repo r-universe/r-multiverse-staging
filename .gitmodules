@@ -16,6 +16,10 @@
 	url = https://github.com/apache/arrow-adbc
 	branch = 37f79efbcd1641e6906a36e76df57cb896f2bc68
 	subdir = r/adbcflightsql
+[submodule "audio.whisper"]
+	path = audio.whisper
+	url = https://github.com/bnosac/audio.whisper
+	branch = 4b5c6a288c0f46a4cdc47f50d2d35395d3e32194
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
@@ -59,7 +63,7 @@
 [submodule "multiverse.internals"]
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
-	branch = 198738df873fe136798779037f23c17029c585de
+	branch = 2841e54e3550eb1442416854101e722d731910c2
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
@@ -76,6 +80,10 @@
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
 	branch = 825b313ca882410c19440aa8eb71b57a299dfc6d
+[submodule "stantargets"]
+	path = stantargets
+	url = https://github.com/ropensci/stantargets
+	branch = bbdda1b4a44a3d6a22041e03eed38f27319d8f32
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
@@ -84,6 +92,10 @@
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
 	branch = a199a734b16f91726698a19e5f147f57f79cb2b6
+[submodule "tidypolars"]
+	path = tidypolars
+	url = https://github.com/etiennebacher/tidypolars
+	branch = b856d174d90010dde55a4348a1496ded797f40af
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
