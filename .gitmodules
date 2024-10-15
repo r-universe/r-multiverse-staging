@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-multiverse/staging
 	branch = HEAD
+[submodule "IMD"]
+	path = IMD
+	url = https://github.com/humaniverse/IMD
+	branch = 8cc26c4f70bf6e07c47bab089c7bad18c864223c
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
@@ -9,17 +13,31 @@
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
-	branch = 37f79efbcd1641e6906a36e76df57cb896f2bc68
+	branch = 15f330ce93c90b650fc92cf13ce5d8bd747f094e
 	subdir = r/adbcdrivermanager
 [submodule "adbcflightsql"]
 	path = adbcflightsql
 	url = https://github.com/apache/arrow-adbc
-	branch = 37f79efbcd1641e6906a36e76df57cb896f2bc68
+	branch = 15f330ce93c90b650fc92cf13ce5d8bd747f094e
 	subdir = r/adbcflightsql
+[submodule "adbcsnowflake"]
+	path = adbcsnowflake
+	url = https://github.com/apache/arrow-adbc
+	branch = 15f330ce93c90b650fc92cf13ce5d8bd747f094e
+	subdir = r/adbcsnowflake
+[submodule "arrow"]
+	path = arrow
+	url = https://github.com/apache/arrow
+	branch = 6a2e19a852b367c72d7b12da4d104456491ed8b7
+	subdir = r
+[submodule "asylum"]
+	path = asylum
+	url = https://github.com/humaniverse/asylum
+	branch = 22064dd0822e007ef78cd29e9a118beb09e76da4
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc
-	registered = false
+	branch = c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
@@ -28,6 +46,10 @@
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
 	branch = 02259ef7aa2a8b1c8de2fa3fc42a9feafd789288
+[submodule "colorout"]
+	path = colorout
+	url = https://github.com/jalvesaq/colorout
+	branch = 6eca95213c6cb2fae1c2c4eaccf43de4c93a65b5
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
@@ -39,7 +61,7 @@
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
-	branch = 10e2d584c77e1b8fee74495cb4945041b9bbf694
+	branch = 79616cba7ee97f99b4e734febbfd72b4a1d4e8e0
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
@@ -56,6 +78,10 @@
 	path = later
 	url = https://github.com/r-lib/later
 	branch = 0668a280c2d851fbff63da4e6a1def7fbcfb2f81
+[submodule "litedown"]
+	path = litedown
+	url = https://github.com/yihui/litedown
+	branch = 6cec1c2ea1db1b27ffe2103bfd33dc0e4e4e7a8c
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
@@ -68,6 +94,11 @@
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
 	branch = f7b8ac48f080e1484f4728913da8399702e0eeae
+[submodule "nanoarrow"]
+	path = nanoarrow
+	url = https://github.com/apache/arrow-nanoarrow
+	branch = 33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd
+	subdir = r
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
@@ -75,11 +106,24 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = e10e2595a0d3b125ad3e743763245dbfffd0270b
+	branch = 742d6ea74d40e645b9b9ef3d70b1bb7edf17d7a9
+[submodule "prophet"]
+	path = prophet
+	url = https://github.com/facebook/prophet
+	branch = 2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02
+	subdir = R
+[submodule "prqlr"]
+	path = prqlr
+	url = https://github.com/PRQL/prqlc-r
+	branch = 9bcc6ef530582844da1e8c8b5e3faa8477a5ecd2
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
 	branch = 4948c0e3d3574ffe3b56606820c0313e9acbba38
+[submodule "rlang"]
+	path = rlang
+	url = https://github.com/r-lib/rlang
+	branch = ae699d14ce32444ecd797e287f9384faf3726c74
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
@@ -99,7 +143,7 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = b856d174d90010dde55a4348a1496ded797f40af
+	branch = f239f0a1aac4e57166416cfe54ebefba00dde0d8
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
@@ -109,6 +153,10 @@
 	url = https://github.com/markvanderloo/tinytest
 	subdir = pkg
 	registered = false
+[submodule "unigd"]
+	path = unigd
+	url = https://github.com/nx10/unigd
+	branch = c7d55c984624bdf89e385a2d86fcb93c692b400c
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
