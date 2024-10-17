@@ -148,11 +148,6 @@
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
 	branch = 14f5b87d2dfae20eb35cfd974adf660a4fd89980
-[submodule "tinytest"]
-	path = tinytest
-	url = https://github.com/markvanderloo/tinytest
-	subdir = pkg
-	registered = false
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
