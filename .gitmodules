@@ -149,6 +149,10 @@
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
 	branch = a199a734b16f91726698a19e5f147f57f79cb2b6
+[submodule "taxizedb"]
+	path = taxizedb
+	url = https://github.com/ropensci/taxizedb
+	branch = 5732f9777142cd0034b64d5ae8b9aea0605cfaab
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
@@ -161,6 +165,10 @@
 	path = unigd
 	url = https://github.com/nx10/unigd
 	branch = c7d55c984624bdf89e385a2d86fcb93c692b400c
+[submodule "webseq"]
+	path = webseq
+	url = https://github.com/stitam/webseq
+	branch = b710f93da5b8dd8a30fa170cdf3da8da943fbae1
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
