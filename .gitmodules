@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-multiverse/staging
 	branch = HEAD
+[submodule "DEPAHRI"]
+	path = DEPAHRI
+	url = https://github.com/humaniverse/DEPAHRI
+	branch = 87459858693a051761b2a64de31a5d7c70d0dc5b
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
@@ -59,14 +63,26 @@
 	path = crew
 	url = https://github.com/wlandau/crew
 	branch = 8ca02085fb1880ad87788bd1eb0ca331da69e60e
+[submodule "demographr"]
+	path = demographr
+	url = https://github.com/humaniverse/demographr
+	branch = 5d73b83f4bd70048d39b6b9c4bffaf02c8aab321
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
 	branch = 7d8ba88961d847bc2e95a350b214d22db6847f43
+[submodule "geographr"]
+	path = geographr
+	url = https://github.com/humaniverse/geographr
+	branch = ed416a6735f7c4d8da0b866260369e84c27319a2
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
 	branch = 349c5bb3a1fca6a8cefae381094b046c8ce028b2
+[submodule "healthyr"]
+	path = healthyr
+	url = https://github.com/humaniverse/healthyr
+	branch = 37a8c7844582bf6dbbc80bf960aa176e2c3e9435
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
@@ -87,6 +103,10 @@
 	path = litedown
 	url = https://github.com/yihui/litedown
 	branch = 6cec1c2ea1db1b27ffe2103bfd33dc0e4e4e7a8c
+[submodule "loneliness"]
+	path = loneliness
+	url = https://github.com/humaniverse/loneliness
+	branch = 330d200bf9de4a76ca1e82e3d84a3c5aba946707
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -115,7 +135,7 @@
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = 4bd16001d935d2e0b6e7d15d7aac12dc1cc35ec9
+	branch = a76b8d56e6f39a6157880069f9d32f3cc1f574d7
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
@@ -156,7 +176,7 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = 9144fbf40ca20f30509bad27068d4fca47a81b2e
+	branch = 4508d4d25685eed1ecee8a9450c9b804b34311ef
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
@@ -165,10 +185,18 @@
 	path = unigd
 	url = https://github.com/nx10/unigd
 	branch = c7d55c984624bdf89e385a2d86fcb93c692b400c
+[submodule "webchem"]
+	path = webchem
+	url = https://github.com/ropensci/webchem
+	branch = 5c177df9bd91d969e10da94a9c468933f899d140
 [submodule "webseq"]
 	path = webseq
 	url = https://github.com/stitam/webseq
 	branch = b710f93da5b8dd8a30fa170cdf3da8da943fbae1
+[submodule "wildfires"]
+	path = wildfires
+	url = https://github.com/humaniverse/wildfires
+	branch = 228c24be602b16073ff2bc8096d5df9d42dc6ea1
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
