@@ -2,10 +2,6 @@
 	path = .registry
 	url = https://github.com/r-multiverse/staging
 	branch = HEAD
-[submodule "DEPAHRI"]
-	path = DEPAHRI
-	url = https://github.com/humaniverse/DEPAHRI
-	branch = 87459858693a051761b2a64de31a5d7c70d0dc5b
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
