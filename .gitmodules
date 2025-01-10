@@ -2,15 +2,3 @@
 	path = .registry
 	url = https://github.com/r-multiverse/staging
 	branch = HEAD
-[submodule "SBC"]
-	path = SBC
-	url = https://github.com/hyunjimoon/SBC
-	registered = false
-[submodule "audio.vadwebrtc"]
-	path = audio.vadwebrtc
-	url = https://github.com/bnosac/audio.vadwebrtc
-	registered = false
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/stan-dev/cmdstanr
-	registered = false
