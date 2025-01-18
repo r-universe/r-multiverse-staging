@@ -47,6 +47,11 @@
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
 	branch = 4b5c6a288c0f46a4cdc47f50d2d35395d3e32194
+[submodule "bridgestan"]
+	path = bridgestan
+	url = https://github.com/roualdes/bridgestan
+	branch = b161ca7a1d417213b084c4a8c2d53fa44f7e8284
+	subdir = R
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
