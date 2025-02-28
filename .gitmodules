@@ -5,15 +5,15 @@
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
-	branch = 8cc26c4f70bf6e07c47bab089c7bad18c864223c
+	branch = v1.2.1
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/inbo/INLA
-	branch = *release
+	branch = v19.09.03
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
-	branch = 9ddc803105f5350dae6efb4ae2657e89d2a54aa8
+	branch = v0.3.0
 [submodule "adbcbigquery"]
 	path = adbcbigquery
 	url = https://github.com/apache/arrow-adbc
@@ -42,7 +42,7 @@
 [submodule "asylum"]
 	path = asylum
 	url = https://github.com/humaniverse/asylum
-	branch = 22064dd0822e007ef78cd29e9a118beb09e76da4
+	branch = v1.1.2
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc
@@ -50,11 +50,11 @@
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
-	branch = 4b5c6a288c0f46a4cdc47f50d2d35395d3e32194
+	branch = 0.4.1
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
-	branch = b161ca7a1d417213b084c4a8c2d53fa44f7e8284
+	branch = v2.6.1
 	subdir = R
 [submodule "cmdstanr"]
 	path = cmdstanr
@@ -63,7 +63,7 @@
 [submodule "colorout"]
 	path = colorout
 	url = https://github.com/jalvesaq/colorout
-	branch = 6eca95213c6cb2fae1c2c4eaccf43de4c93a65b5
+	branch = v1.3-2
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
@@ -71,7 +71,7 @@
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
-	branch = 5d73b83f4bd70048d39b6b9c4bffaf02c8aab321
+	branch = 0.0.1
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
@@ -79,19 +79,19 @@
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
-	branch = ed416a6735f7c4d8da0b866260369e84c27319a2
+	branch = 1.0.1
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
-	branch = 349c5bb3a1fca6a8cefae381094b046c8ce028b2
+	branch = v0.0.4
 [submodule "healthyr"]
 	path = healthyr
 	url = https://github.com/humaniverse/healthyr
-	branch = 37a8c7844582bf6dbbc80bf960aa176e2c3e9435
+	branch = 0.0.1
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
-	branch = b0a5ec38638ca69e3adbc7b24d815757e5f74817
+	branch = v2.0.3
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
@@ -111,11 +111,11 @@
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
-	branch = 203e35dadc695b03c975160fd8d9c1d36152efc6
+	branch = v0.6
 [submodule "loneliness"]
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
-	branch = 330d200bf9de4a76ca1e82e3d84a3c5aba946707
+	branch = 0.0.1
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -165,7 +165,7 @@
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
-	branch = 638326106594be70c5f851c767349e4192740771
+	branch = 0.1.2
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
@@ -185,7 +185,7 @@
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
-	branch = 14f5b87d2dfae20eb35cfd974adf660a4fd89980
+	branch = v1.0.0
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
@@ -197,11 +197,11 @@
 [submodule "webseq"]
 	path = webseq
 	url = https://github.com/stitam/webseq
-	branch = b710f93da5b8dd8a30fa170cdf3da8da943fbae1
+	branch = v0.1.0
 [submodule "wildfires"]
 	path = wildfires
 	url = https://github.com/humaniverse/wildfires
-	branch = 228c24be602b16073ff2bc8096d5df9d42dc6ea1
+	branch = 0.9.0
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
