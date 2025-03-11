@@ -9,6 +9,7 @@
 [submodule "INLA"]
 	path = INLA
 	url = https://github.com/inbo/INLA
+	branch = *release
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC

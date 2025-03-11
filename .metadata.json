@@ -1,0 +1,74 @@
+[
+  {
+    "package": "asylum",
+    "releasetag": true
+  },
+  {
+    "package": "audio.whisper",
+    "releasetag": true
+  },
+  {
+    "package": "bridgestan",
+    "releasetag": true
+  },
+  {
+    "package": "colorout",
+    "releasetag": true
+  },
+  {
+    "package": "demographr",
+    "releasetag": true
+  },
+  {
+    "package": "geographr",
+    "releasetag": true
+  },
+  {
+    "package": "glaredb",
+    "releasetag": true
+  },
+  {
+    "package": "healthyr",
+    "releasetag": true
+  },
+  {
+    "package": "httpgd",
+    "releasetag": true
+  },
+  {
+    "package": "IMD",
+    "releasetag": true
+  },
+  {
+    "package": "INLA",
+    "releasetag": true
+  },
+  {
+    "package": "litedown",
+    "releasetag": true
+  },
+  {
+    "package": "loneliness",
+    "releasetag": true
+  },
+  {
+    "package": "SBC",
+    "releasetag": true
+  },
+  {
+    "package": "stantargets",
+    "releasetag": true
+  },
+  {
+    "package": "tidytensor",
+    "releasetag": true
+  },
+  {
+    "package": "webseq",
+    "releasetag": true
+  },
+  {
+    "package": "wildfires",
+    "releasetag": true
+  }
+]
