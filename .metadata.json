@@ -1,6 +1,30 @@
 [
   {
+    "package": "adbcbigquery",
+    "releasetag": true
+  },
+  {
+    "package": "adbcdrivermanager",
+    "releasetag": true
+  },
+  {
+    "package": "adbcflightsql",
+    "releasetag": true
+  },
+  {
+    "package": "adbcsnowflake",
+    "releasetag": true
+  },
+  {
+    "package": "arrow",
+    "releasetag": true
+  },
+  {
     "package": "asylum",
+    "releasetag": true
+  },
+  {
+    "package": "audio.vadwebrtc",
     "releasetag": true
   },
   {
@@ -8,7 +32,15 @@
     "releasetag": true
   },
   {
+    "package": "autometric",
+    "releasetag": true
+  },
+  {
     "package": "bridgestan",
+    "releasetag": true
+  },
+  {
+    "package": "cmdstanr",
     "releasetag": true
   },
   {
@@ -16,7 +48,23 @@
     "releasetag": true
   },
   {
+    "package": "crew",
+    "releasetag": true
+  },
+  {
+    "package": "crew.aws.batch",
+    "releasetag": true
+  },
+  {
+    "package": "crew.cluster",
+    "releasetag": true
+  },
+  {
     "package": "demographr",
+    "releasetag": true
+  },
+  {
+    "package": "duckdb",
     "releasetag": true
   },
   {
@@ -36,11 +84,27 @@
     "releasetag": true
   },
   {
+    "package": "ichimoku",
+    "releasetag": true
+  },
+  {
+    "package": "igraph",
+    "releasetag": true
+  },
+  {
     "package": "IMD",
     "releasetag": true
   },
   {
     "package": "INLA",
+    "releasetag": true
+  },
+  {
+    "package": "jagstargets",
+    "releasetag": true
+  },
+  {
+    "package": "later",
     "releasetag": true
   },
   {
@@ -52,6 +116,58 @@
     "releasetag": true
   },
   {
+    "package": "milRex",
+    "releasetag": true
+  },
+  {
+    "package": "mirai",
+    "releasetag": true
+  },
+  {
+    "package": "multitools",
+    "releasetag": true
+  },
+  {
+    "package": "multiverse.internals",
+    "releasetag": true
+  },
+  {
+    "package": "nanoarrow",
+    "releasetag": true
+  },
+  {
+    "package": "nanonext",
+    "releasetag": true
+  },
+  {
+    "package": "polars",
+    "releasetag": true
+  },
+  {
+    "package": "prophet",
+    "releasetag": true
+  },
+  {
+    "package": "prqlr",
+    "releasetag": true
+  },
+  {
+    "package": "rJavaEnv",
+    "releasetag": true
+  },
+  {
+    "package": "rlang",
+    "releasetag": true
+  },
+  {
+    "package": "Rvision",
+    "releasetag": true
+  },
+  {
+    "package": "rwasm",
+    "releasetag": true
+  },
+  {
     "package": "SBC",
     "releasetag": true
   },
@@ -60,7 +176,39 @@
     "releasetag": true
   },
   {
+    "package": "string2path",
+    "releasetag": true
+  },
+  {
+    "package": "tarchetypes",
+    "releasetag": true
+  },
+  {
+    "package": "targets",
+    "releasetag": true
+  },
+  {
+    "package": "targetsketch",
+    "releasetag": true
+  },
+  {
+    "package": "taxizedb",
+    "releasetag": true
+  },
+  {
+    "package": "tidypolars",
+    "releasetag": true
+  },
+  {
     "package": "tidytensor",
+    "releasetag": true
+  },
+  {
+    "package": "unigd",
+    "releasetag": true
+  },
+  {
+    "package": "webchem",
     "releasetag": true
   },
   {
@@ -69,6 +217,10 @@
   },
   {
     "package": "wildfires",
+    "releasetag": true
+  },
+  {
+    "package": "zstdlite",
     "releasetag": true
   }
 ]

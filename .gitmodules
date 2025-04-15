@@ -10,6 +10,10 @@
 	path = INLA
 	url = https://github.com/inbo/INLA
 	branch = v19.09.03
+[submodule "Rvision"]
+	path = Rvision
+	url = https://github.com/swarm-lab/Rvision
+	branch = *release
 [submodule "SBC"]
 	path = SBC
 	url = https://github.com/hyunjimoon/SBC
@@ -51,6 +55,10 @@
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
 	branch = 0.4.1
+[submodule "autometric"]
+	path = autometric
+	url = https://github.com/wlandau/autometric
+	branch = *release
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -68,6 +76,14 @@
 	path = crew
 	url = https://github.com/wlandau/crew
 	branch = e28d0c782fbc22b3cd4129e5f30825a8a44c0f75
+[submodule "crew.aws.batch"]
+	path = crew.aws.batch
+	url = https://github.com/wlandau/crew.aws.batch
+	branch = *release
+[submodule "crew.cluster"]
+	path = crew.cluster
+	url = https://github.com/wlandau/crew.cluster
+	branch = *release
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
@@ -162,6 +178,10 @@
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	branch = 119ce823eabd4ce3e834af0e7de4601703fdc214
+[submodule "rwasm"]
+	path = rwasm
+	url = https://github.com/r-wasm/rwasm
+	branch = *release
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
@@ -170,6 +190,14 @@
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
 	branch = 0187aba7afebd016d4d90a0f76c7032e74694e2c
+[submodule "tarchetypes"]
+	path = tarchetypes
+	url = https://github.com/ropensci/tarchetypes
+	branch = *release
+[submodule "targets"]
+	path = targets
+	url = https://github.com/ropensci/targets
+	branch = *release
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
