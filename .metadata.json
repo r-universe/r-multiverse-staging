@@ -44,10 +44,6 @@
     "releasetag": true
   },
   {
-    "package": "httpgd",
-    "releasetag": true
-  },
-  {
     "package": "IMD",
     "releasetag": true
   },
