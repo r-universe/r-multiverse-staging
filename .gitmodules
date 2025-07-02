@@ -22,7 +22,7 @@
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
-	branch = b093c15341a00af954c4954696cab910fa794f6e
+	branch = apache-arrow-adbc-19
 	subdir = r/adbcdrivermanager
 [submodule "adbcflightsql"]
 	path = adbcflightsql
@@ -37,7 +37,7 @@
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
-	branch = 3ad0370a04ccdae638755b94c3c31c8760a11193
+	branch = apache-arrow-20.0.0
 	subdir = r
 [submodule "asylum"]
 	path = asylum
@@ -46,7 +46,7 @@
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc
-	branch = c3de76ddc738dbb4a80ac7ec67ac9da3cba093ba
+	branch = 0.2
 [submodule "audio.whisper"]
 	path = audio.whisper
 	url = https://github.com/bnosac/audio.whisper
@@ -54,7 +54,7 @@
 [submodule "autometric"]
 	path = autometric
 	url = https://github.com/wlandau/autometric
-	branch = 36e98ae76feb34de0783d6505f7f2a17e972fe23
+	branch = 0.1.2
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -63,7 +63,7 @@
 [submodule "cmdstanr"]
 	path = cmdstanr
 	url = https://github.com/stan-dev/cmdstanr
-	branch = da99e2ba954658bdad63bffb738c4444c33a4e0e
+	branch = v0.9.0
 [submodule "colorout"]
 	path = colorout
 	url = https://github.com/jalvesaq/colorout
@@ -71,15 +71,15 @@
 [submodule "crew"]
 	path = crew
 	url = https://github.com/wlandau/crew
-	branch = c9d86b6126741b1a3586633594624b0a3347dc82
+	branch = 1.2.1
 [submodule "crew.aws.batch"]
 	path = crew.aws.batch
 	url = https://github.com/wlandau/crew.aws.batch
-	branch = bc77f5f669e805efbd3dd595264841f73a48207a
+	branch = 0.0.12
 [submodule "crew.cluster"]
 	path = crew.cluster
 	url = https://github.com/wlandau/crew.cluster
-	branch = 0999b6ebdaa89606d63115998cd373313b4d3f40
+	branch = 0.3.8
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
@@ -87,7 +87,7 @@
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
-	branch = 73d731fb8b71bc33e93c2ea91fe402e34c1d699c
+	branch = v1.3.2
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
@@ -103,27 +103,27 @@
 [submodule "httpgd"]
 	path = httpgd
 	url = https://github.com/nx10/httpgd
-	branch = dd6ed3a687a2d7327bb28ca46725a0a203eb2a19
+	branch = v2.0.4
 [submodule "ichimoku"]
 	path = ichimoku
 	url = https://github.com/shikokuchuo/ichimoku
-	branch = 43f02878819ca3a868cfa74513117b9dfc141755
+	branch = v1.5.6
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
-	branch = affdf8c714ace2e3b66dbcaee24ca2211633f964
+	branch = v2.1.4
 [submodule "jagstargets"]
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
-	branch = fef92d0d74f6e9832459ce4bee69396bca21fd3f
+	branch = 1.2.3
 [submodule "later"]
 	path = later
 	url = https://github.com/r-lib/later
-	branch = 78933e3dc32bc171a4dea25d77fb27abbd726f8d
+	branch = v1.4.2
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
-	branch = 637bdf024a413116174f09c25f7d366c4bd43a94
+	branch = v0.7
 [submodule "loneliness"]
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
@@ -131,57 +131,57 @@
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
-	branch = 3a8c6096b0e162445f119fc2dfc46ff41d0089ba
+	branch = v1.0.1
 [submodule "mirai"]
 	path = mirai
 	url = https://github.com/shikokuchuo/mirai
-	branch = 06c062f0bc239da1a3781560a65c230f0ef7805f
+	branch = v2.4.0
 [submodule "multitools"]
 	path = multitools
 	url = https://github.com/r-multiverse/multitools
-	branch = c73b933868d8c6884df4220c25779cd0874ec7de
+	branch = 0.1.1
 [submodule "multiverse.internals"]
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
-	branch = a05cff7f40006968b805deb052915a76ac38bf22
+	branch = 1.0.15
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
-	branch = 33d2c8b973d8f8f424e02ac92ddeaace2a92f8dd
+	branch = apache-arrow-nanoarrow-0.7.0
 	subdir = r
 [submodule "nanonext"]
 	path = nanonext
 	url = https://github.com/shikokuchuo/nanonext
-	branch = 08b1ace5e45fe84152ed7413708ffa6f667b11a8
+	branch = v1.6.2
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
-	branch = 2b5b485fb178e47934c8041f03d4382f79a205f6
+	branch = v0.22.4
 [submodule "polars0"]
 	path = polars0
 	url = https://github.com/rpolars/r-polars0
-	branch = *release
+	branch = v1.0.0
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
-	branch = 2a57e9d342fd1c28ed1fba32d8f0dfb199c4fa02
+	branch = v1.1.7
 	subdir = R
 [submodule "prqlr"]
 	path = prqlr
 	url = https://github.com/PRQL/prqlc-r
-	branch = 85d9fa32cf35a189942953a873a5351b1fae2516
+	branch = v0.10.1
 [submodule "rJavaEnv"]
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
-	branch = cce4a2bb65d891c3e9ba0194a67451de87a2a3ae
+	branch = v0.3.0
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
-	branch = 830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0
+	branch = v1.1.6
 [submodule "rwasm"]
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
-	branch = a7079cbfd10428e18486578d3c309c9fd69f6d97
+	branch = v0.2.0
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
@@ -189,23 +189,23 @@
 [submodule "string2path"]
 	path = string2path
 	url = https://github.com/yutannihilation/string2path
-	branch = 64be930c5bbef7e1cc491ccc52c115991113d2ac
+	branch = v0.2.2
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/ropensci/tarchetypes
-	branch = ef15320481cfa9cce782237153aad38eac31a3b2
+	branch = 0.13.1
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = 38e43681e0d5c8a589b41fdc80807d432ec4eb74
+	branch = 1.11.3
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
-	branch = a199a734b16f91726698a19e5f147f57f79cb2b6
+	branch = 0.0.1
 [submodule "taxizedb"]
 	path = taxizedb
 	url = https://github.com/ropensci/taxizedb
-	branch = 5732f9777142cd0034b64d5ae8b9aea0605cfaab
+	branch = v0.3.1
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
@@ -217,11 +217,11 @@
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
-	branch = b6c5181aa1c7c0888b923663b7fe903c6759d86d
+	branch = v0.1.3
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/ropensci/webchem
-	branch = 5c177df9bd91d969e10da94a9c468933f899d140
+	branch = v1.3.0
 [submodule "webseq"]
 	path = webseq
 	url = https://github.com/stitam/webseq
@@ -233,4 +233,4 @@
 [submodule "zstdlite"]
 	path = zstdlite
 	url = https://github.com/coolbutuseless/zstdlite
-	branch = 585458ccbe36eaa179d8b30f04f1e3a91dc6b993
+	branch = v0.2.6
