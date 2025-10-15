@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/r-multiverse/staging
 	branch = HEAD
+[submodule "ExpBites"]
+	path = ExpBites
+	url = https://github.com/Nmoiroux/ExpBites
+	branch = *release
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
@@ -55,6 +59,10 @@
 	path = autometric
 	url = https://github.com/wlandau/autometric
 	branch = 36e98ae76feb34de0783d6505f7f2a17e972fe23
+[submodule "bayesplot"]
+	path = bayesplot
+	url = https://github.com/stan-dev/bayesplot
+	branch = *release
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -80,6 +88,14 @@
 	path = crew.cluster
 	url = https://github.com/wlandau/crew.cluster
 	branch = f5bb1d39d60f5b6204f4b1ca3090f2b11a5246b9
+[submodule "deeptime"]
+	path = deeptime
+	url = https://github.com/willgearty/deeptime
+	branch = *release
+[submodule "deeptimedata"]
+	path = deeptimedata
+	url = https://github.com/willgearty/deeptimedata
+	branch = *release
 [submodule "demographr"]
 	path = demographr
 	url = https://github.com/humaniverse/demographr
@@ -92,6 +108,14 @@
 	path = geographr
 	url = https://github.com/humaniverse/geographr
 	branch = 1.0.1
+[submodule "geotargets"]
+	path = geotargets
+	url = https://github.com/ropensci/geotargets
+	branch = *release
+[submodule "ggsurveillance"]
+	path = ggsurveillance
+	url = https://github.com/biostats-dev/ggsurveillance
+	branch = *release
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
@@ -128,6 +152,10 @@
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
 	branch = 0.0.1
+[submodule "loo"]
+	path = loo
+	url = https://github.com/stan-dev/loo
+	branch = *release
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -144,6 +172,10 @@
 	path = multiverse.internals
 	url = https://github.com/r-multiverse/multiverse.internals
 	branch = e35da5520b2635dd61fad8c1082bf2f0ef2861a7
+[submodule "mutagen"]
+	path = mutagen
+	url = https://github.com/gvelasq/mutagen
+	branch = *release
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
@@ -161,6 +193,18 @@
 	path = polars0
 	url = https://github.com/rpolars/r-polars0
 	branch = 8972f0106e87e1f02da005613855fe99628d66db
+[submodule "posterior"]
+	path = posterior
+	url = https://github.com/stan-dev/posterior
+	branch = *release
+[submodule "posteriordb"]
+	path = posteriordb
+	url = https://github.com/stan-dev/posteriordb-r
+	branch = *release
+[submodule "projpred"]
+	path = projpred
+	url = https://github.com/stan-dev/projpred
+	branch = *release
 [submodule "prophet"]
 	path = prophet
 	url = https://github.com/facebook/prophet
@@ -174,14 +218,34 @@
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
 	branch = cce4a2bb65d891c3e9ba0194a67451de87a2a3ae
+[submodule "riem"]
+	path = riem
+	url = https://github.com/ropensci/riem
+	branch = *release
 [submodule "rlang"]
 	path = rlang
 	url = https://github.com/r-lib/rlang
 	branch = 830745e8798b7f2ef7c4afd96ed40d4adfe2fdf0
+[submodule "rredlist"]
+	path = rredlist
+	url = https://github.com/ropensci/rredlist
+	branch = *release
+[submodule "rstanarm"]
+	path = rstanarm
+	url = https://github.com/stan-dev/rstanarm
+	branch = *release
 [submodule "rwasm"]
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
 	branch = 005588296e03080357c7140c1eaf8b47ccabe0bc
+[submodule "saperlipopette"]
+	path = saperlipopette
+	url = https://github.com/ropensci-training/saperlipopette
+	branch = *release
+[submodule "shinystan"]
+	path = shinystan
+	url = https://github.com/stan-dev/shinystan
+	branch = *release
 [submodule "stantargets"]
 	path = stantargets
 	url = https://github.com/ropensci/stantargets
@@ -210,6 +274,10 @@
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
 	branch = 5acc4a512a1d81cf3187ff14f4718f55d2105b44
+[submodule "tidytab"]
+	path = tidytab
+	url = https://github.com/gvelasq/tidytab
+	branch = *release
 [submodule "tidytensor"]
 	path = tidytensor
 	url = https://github.com/oneilsh/tidytensor
@@ -218,6 +286,10 @@
 	path = unigd
 	url = https://github.com/nx10/unigd
 	branch = b6c5181aa1c7c0888b923663b7fe903c6759d86d
+[submodule "weathercan"]
+	path = weathercan
+	url = https://github.com/ropensci/weathercan
+	branch = *release
 [submodule "webchem"]
 	path = webchem
 	url = https://github.com/ropensci/webchem
