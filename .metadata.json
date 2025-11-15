@@ -68,10 +68,6 @@
     "releasetag": true
   },
   {
-    "package": "polars",
-    "releasetag": true
-  },
-  {
     "package": "prophet",
     "releasetag": true
   },
