@@ -84,10 +84,6 @@
     "releasetag": true
   },
   {
-    "package": "tidypolars",
-    "releasetag": true
-  },
-  {
     "package": "tidytensor",
     "releasetag": true
   },

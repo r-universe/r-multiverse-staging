@@ -293,7 +293,7 @@
 [submodule "tidypolars"]
 	path = tidypolars
 	url = https://github.com/etiennebacher/tidypolars
-	branch = v0.15.1
+	branch = 6f92eff31cd964575ea5080b3dcd408d7b023642
 [submodule "tidytab"]
 	path = tidytab
 	url = https://github.com/gvelasq/tidytab
