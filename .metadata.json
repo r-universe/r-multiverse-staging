@@ -36,10 +36,6 @@
     "releasetag": true
   },
   {
-    "package": "ExpBites",
-    "releasetag": true
-  },
-  {
     "package": "geographr",
     "releasetag": true
   },
