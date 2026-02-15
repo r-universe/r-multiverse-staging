@@ -16,15 +16,7 @@
     "releasetag": true
   },
   {
-    "package": "arrow",
-    "releasetag": true
-  },
-  {
     "package": "asylum",
-    "releasetag": true
-  },
-  {
-    "package": "audio.vadwebrtc",
     "releasetag": true
   },
   {
@@ -32,19 +24,7 @@
     "releasetag": true
   },
   {
-    "package": "autometric",
-    "releasetag": true
-  },
-  {
-    "package": "bayesplot",
-    "releasetag": true
-  },
-  {
     "package": "bedrockbio",
-    "releasetag": true
-  },
-  {
-    "package": "biorecap",
     "releasetag": true
   },
   {
@@ -52,51 +32,11 @@
     "releasetag": true
   },
   {
-    "package": "cli",
-    "releasetag": true
-  },
-  {
-    "package": "cmdstanr",
-    "releasetag": true
-  },
-  {
     "package": "colorout",
     "releasetag": true
   },
   {
-    "package": "crew",
-    "releasetag": true
-  },
-  {
-    "package": "crew.aws.batch",
-    "releasetag": true
-  },
-  {
-    "package": "crew.cluster",
-    "releasetag": true
-  },
-  {
-    "package": "deeptime",
-    "releasetag": true
-  },
-  {
-    "package": "deeptimedata",
-    "releasetag": true
-  },
-  {
     "package": "demographr",
-    "releasetag": true
-  },
-  {
-    "package": "duckdb",
-    "releasetag": true
-  },
-  {
-    "package": "ecoXCorr",
-    "releasetag": true
-  },
-  {
-    "package": "ExpBites",
     "releasetag": true
   },
   {
@@ -112,10 +52,6 @@
     "releasetag": true
   },
   {
-    "package": "ggsurveillance",
-    "releasetag": true
-  },
-  {
     "package": "glaredb",
     "releasetag": true
   },
@@ -124,31 +60,7 @@
     "releasetag": true
   },
   {
-    "package": "httpgd",
-    "releasetag": true
-  },
-  {
-    "package": "igraph",
-    "releasetag": true
-  },
-  {
     "package": "IMD",
-    "releasetag": true
-  },
-  {
-    "package": "jagstargets",
-    "releasetag": true
-  },
-  {
-    "package": "kgp",
-    "releasetag": true
-  },
-  {
-    "package": "later",
-    "releasetag": true
-  },
-  {
-    "package": "litedown",
     "releasetag": true
   },
   {
@@ -156,39 +68,7 @@
     "releasetag": true
   },
   {
-    "package": "loo",
-    "releasetag": true
-  },
-  {
-    "package": "milRex",
-    "releasetag": true
-  },
-  {
-    "package": "mirai",
-    "releasetag": true
-  },
-  {
-    "package": "multitools",
-    "releasetag": true
-  },
-  {
-    "package": "multiverse.internals",
-    "releasetag": true
-  },
-  {
-    "package": "mutagen",
-    "releasetag": true
-  },
-  {
     "package": "nanoarrow",
-    "releasetag": true
-  },
-  {
-    "package": "nanonext",
-    "releasetag": true
-  },
-  {
-    "package": "polars",
     "releasetag": true
   },
   {
@@ -196,19 +76,7 @@
     "releasetag": true
   },
   {
-    "package": "posterior",
-    "releasetag": true
-  },
-  {
-    "package": "posteriordb",
-    "releasetag": true
-  },
-  {
     "package": "prism2R",
-    "releasetag": true
-  },
-  {
-    "package": "projpred",
     "releasetag": true
   },
   {
@@ -216,47 +84,7 @@
     "releasetag": true
   },
   {
-    "package": "prqlr",
-    "releasetag": true
-  },
-  {
-    "package": "qqman",
-    "releasetag": true
-  },
-  {
-    "package": "riem",
-    "releasetag": true
-  },
-  {
-    "package": "rJavaEnv",
-    "releasetag": true
-  },
-  {
-    "package": "rlang",
-    "releasetag": true
-  },
-  {
-    "package": "rredlist",
-    "releasetag": true
-  },
-  {
-    "package": "rstanarm",
-    "releasetag": true
-  },
-  {
     "package": "Rvision",
-    "releasetag": true
-  },
-  {
-    "package": "rwasm",
-    "releasetag": true
-  },
-  {
-    "package": "S7",
-    "releasetag": true
-  },
-  {
-    "package": "saperlipopette",
     "releasetag": true
   },
   {
@@ -264,15 +92,7 @@
     "releasetag": true
   },
   {
-    "package": "secretbase",
-    "releasetag": true
-  },
-  {
     "package": "sedonadb",
-    "releasetag": true
-  },
-  {
-    "package": "shinystan",
     "releasetag": true
   },
   {
@@ -280,59 +100,11 @@
     "releasetag": true
   },
   {
-    "package": "string2path",
-    "releasetag": true
-  },
-  {
-    "package": "tarchetypes",
-    "releasetag": true
-  },
-  {
-    "package": "targets",
-    "releasetag": true
-  },
-  {
-    "package": "targetsketch",
-    "releasetag": true
-  },
-  {
-    "package": "taxizedb",
-    "releasetag": true
-  },
-  {
     "package": "tidypolars",
     "releasetag": true
   },
   {
-    "package": "tidytab",
-    "releasetag": true
-  },
-  {
     "package": "tidytensor",
-    "releasetag": true
-  },
-  {
-    "package": "tidyterra",
-    "releasetag": true
-  },
-  {
-    "package": "trelliscope",
-    "releasetag": true
-  },
-  {
-    "package": "unigd",
-    "releasetag": true
-  },
-  {
-    "package": "vctrs",
-    "releasetag": true
-  },
-  {
-    "package": "weathercan",
-    "releasetag": true
-  },
-  {
-    "package": "webchem",
     "releasetag": true
   },
   {
@@ -345,10 +117,6 @@
   },
   {
     "package": "wk",
-    "releasetag": true
-  },
-  {
-    "package": "zstdlite",
     "releasetag": true
   }
 ]
