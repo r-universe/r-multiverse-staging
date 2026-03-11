@@ -25,22 +25,22 @@
 [submodule "adbcbigquery"]
 	path = adbcbigquery
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-22
+	branch = 9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2
 	subdir = r/adbcbigquery
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-22
+	branch = 9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2
 	subdir = r/adbcdrivermanager
 [submodule "adbcflightsql"]
 	path = adbcflightsql
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-22
+	branch = 9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2
 	subdir = r/adbcflightsql
 [submodule "adbcsnowflake"]
 	path = adbcsnowflake
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-22
+	branch = 9693e1c0d45cf3b2b8c65713ad92ef34be8ad9f2
 	subdir = r/adbcsnowflake
 [submodule "arrow"]
 	path = arrow
@@ -204,7 +204,7 @@
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
-	branch = apache-arrow-nanoarrow-0.8.0
+	branch = a579fbf5d192e85b6249935e117de7d02a6dc4e9
 	subdir = r
 [submodule "nanonext"]
 	path = nanonext
