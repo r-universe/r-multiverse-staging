@@ -36,10 +36,6 @@
     "releasetag": true
   },
   {
-    "package": "glaredb",
-    "releasetag": true
-  },
-  {
     "package": "healthyr",
     "releasetag": true
   },

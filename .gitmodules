@@ -144,7 +144,7 @@
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
-	branch = v0.0.5
+	branch = ff810e8c5a1b7050d84b375b9ef33210102213f0
 [submodule "healthyr"]
 	path = healthyr
 	url = https://github.com/humaniverse/healthyr
