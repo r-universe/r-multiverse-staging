@@ -10,6 +10,10 @@
 	path = IMD
 	url = https://github.com/humaniverse/IMD
 	branch = v1.2.1
+[submodule "InsectLabelR"]
+	path = InsectLabelR
+	url = https://github.com/Nmoiroux/InsectLabelR
+	branch = *release
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
@@ -76,6 +80,10 @@
 	path = biorecap
 	url = https://github.com/stephenturner/biorecap
 	branch = 20dcdd9ea6fbca2a061b123ef56e5f1b94380644
+[submodule "bootstrapper"]
+	path = bootstrapper
+	url = https://github.com/VisruthSK/bootstrapper
+	branch = *release
 [submodule "bridgestan"]
 	path = bridgestan
 	url = https://github.com/roualdes/bridgestan
@@ -141,6 +149,10 @@
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
 	branch = b1417c45d47dc19898f8b66f9911166c030b12c1
+[submodule "ggtypst"]
+	path = ggtypst
+	url = https://github.com/Yousa-Mirage/ggtypst
+	branch = *release
 [submodule "glaredb"]
 	path = glaredb
 	url = https://github.com/eitsupi/r-glaredb
@@ -181,6 +193,10 @@
 	path = loo
 	url = https://github.com/stan-dev/loo
 	branch = 299a4c7af159b08b3be0184744cc1a9615b6a341
+[submodule "mfclim"]
+	path = mfclim
+	url = https://github.com/Nmoiroux/mfclim
+	branch = *release
 [submodule "milRex"]
 	path = milRex
 	url = https://github.com/datapumpernickel/milRex
@@ -340,6 +356,10 @@
 	path = vctrs
 	url = https://github.com/r-lib/vctrs
 	branch = eea0f70989fcc95998ac55856711f1199fdd2e48
+[submodule "voucher"]
+	path = voucher
+	url = https://github.com/VisruthSK/voucher
+	branch = *release
 [submodule "weathercan"]
 	path = weathercan
 	url = https://github.com/ropensci/weathercan
