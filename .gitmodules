@@ -136,7 +136,7 @@
 [submodule "geoarrow"]
 	path = geoarrow
 	url = https://github.com/geoarrow/geoarrow-r
-	branch = v0.4.1
+	branch = v0.4.3
 [submodule "geographr"]
 	path = geographr
 	url = https://github.com/humaniverse/geographr
