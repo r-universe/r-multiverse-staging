@@ -9,7 +9,7 @@
 [submodule "IMD"]
 	path = IMD
 	url = https://github.com/humaniverse/IMD
-	branch = v1.2.1
+	branch = 8cc26c4f70bf6e07c47bab089c7bad18c864223c
 [submodule "InsectLabelR"]
 	path = InsectLabelR
 	url = https://github.com/Nmoiroux/InsectLabelR
@@ -29,22 +29,22 @@
 [submodule "adbcbigquery"]
 	path = adbcbigquery
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-23
+	branch = efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e
 	subdir = r/adbcbigquery
 [submodule "adbcdrivermanager"]
 	path = adbcdrivermanager
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-23
+	branch = efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e
 	subdir = r/adbcdrivermanager
 [submodule "adbcflightsql"]
 	path = adbcflightsql
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-23
+	branch = efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e
 	subdir = r/adbcflightsql
 [submodule "adbcsnowflake"]
 	path = adbcsnowflake
 	url = https://github.com/apache/arrow-adbc
-	branch = apache-arrow-adbc-23
+	branch = efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e
 	subdir = r/adbcsnowflake
 [submodule "arrow"]
 	path = arrow
@@ -54,7 +54,7 @@
 [submodule "asylum"]
 	path = asylum
 	url = https://github.com/humaniverse/asylum
-	branch = v1.1.2
+	branch = 22064dd0822e007ef78cd29e9a118beb09e76da4
 [submodule "audio.vadwebrtc"]
 	path = audio.vadwebrtc
 	url = https://github.com/bnosac/audio.vadwebrtc

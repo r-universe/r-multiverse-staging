@@ -1,26 +1,6 @@
 [
   {
-    "package": "adbcbigquery",
-    "releasetag": true
-  },
-  {
-    "package": "adbcdrivermanager",
-    "releasetag": true
-  },
-  {
-    "package": "adbcflightsql",
-    "releasetag": true
-  },
-  {
-    "package": "adbcsnowflake",
-    "releasetag": true
-  },
-  {
     "package": "arrow",
-    "releasetag": true
-  },
-  {
-    "package": "asylum",
     "releasetag": true
   },
   {
@@ -53,10 +33,6 @@
   },
   {
     "package": "healthyr",
-    "releasetag": true
-  },
-  {
-    "package": "IMD",
     "releasetag": true
   },
   {
