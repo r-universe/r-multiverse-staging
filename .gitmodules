@@ -14,6 +14,14 @@
 	path = InsectLabelR
 	url = https://github.com/Nmoiroux/InsectLabelR
 	branch = 86f66bbb8401e2ed7c7bd8be562cbfc369e35ec0
+[submodule "Rmlx"]
+	path = Rmlx
+	url = https://github.com/hughjonesd/Rmlx
+	branch = *release
+[submodule "RmlxStats"]
+	path = RmlxStats
+	url = https://github.com/hughjonesd/RmlxStats
+	branch = *release
 [submodule "Rvision"]
 	path = Rvision
 	url = https://github.com/swarm-lab/Rvision
@@ -46,6 +54,10 @@
 	url = https://github.com/apache/arrow-adbc
 	branch = efdc10ba93f7ae31a7beeb801c13fdcd15f01c6e
 	subdir = r/adbcsnowflake
+[submodule "ahocorasick"]
+	path = ahocorasick
+	url = https://github.com/Yousa-Mirage/r-ahocorasick
+	branch = *release
 [submodule "arrow"]
 	path = arrow
 	url = https://github.com/apache/arrow
@@ -125,6 +137,10 @@
 	path = demographr
 	url = https://github.com/humaniverse/demographr
 	branch = 0.0.1
+[submodule "doctest"]
+	path = doctest
+	url = https://github.com/hughjonesd/doctest
+	branch = *release
 [submodule "duckdb"]
 	path = duckdb
 	url = https://github.com/duckdb/duckdb-r
@@ -145,6 +161,26 @@
 	path = geotargets
 	url = https://github.com/ropensci/geotargets
 	branch = v0.3.1
+[submodule "ggmagnify"]
+	path = ggmagnify
+	url = https://github.com/hughjonesd/ggmagnify
+	branch = *release
+[submodule "ggseg"]
+	path = ggseg
+	url = https://github.com/ggsegverse/ggseg
+	branch = *release
+[submodule "ggseg.formats"]
+	path = ggseg.formats
+	url = https://github.com/ggsegverse/ggseg.formats
+	branch = *release
+[submodule "ggseg.meshes"]
+	path = ggseg.meshes
+	url = https://github.com/ggsegverse/ggseg.meshes
+	branch = *release
+[submodule "ggseg3d"]
+	path = ggseg3d
+	url = https://github.com/ggsegverse/ggseg3d
+	branch = *release
 [submodule "ggsurveillance"]
 	path = ggsurveillance
 	url = https://github.com/biostats-dev/ggsurveillance
@@ -165,6 +201,14 @@
 	path = httpgd
 	url = https://github.com/nx10/httpgd
 	branch = 087ebf5bbf46ddc52e107d6a8bb26381177d2e7f
+[submodule "huxtable"]
+	path = huxtable
+	url = https://github.com/hughjonesd/huxtable
+	branch = *release
+[submodule "ichimoku"]
+	path = ichimoku
+	url = https://github.com/shikokuchuo/ichimoku
+	branch = *release
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
@@ -173,6 +217,10 @@
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
 	branch = fef92d0d74f6e9832459ce4bee69396bca21fd3f
+[submodule "jiebaRS"]
+	path = jiebaRS
+	url = https://github.com/Yousa-Mirage/jiebaRS
+	branch = *release
 [submodule "kgp"]
 	path = kgp
 	url = https://github.com/stephenturner/kgp
@@ -217,6 +265,10 @@
 	path = mutagen
 	url = https://github.com/gvelasq/mutagen
 	branch = 92ab4ab2561dbc094dc2eea27550686b53430fe2
+[submodule "mypaintr"]
+	path = mypaintr
+	url = https://github.com/hughjonesd/mypaintr
+	branch = *release
 [submodule "nanoarrow"]
 	path = nanoarrow
 	url = https://github.com/apache/arrow-nanoarrow
@@ -226,6 +278,10 @@
 	path = nanonext
 	url = https://github.com/r-lib/nanonext
 	branch = 6322bd7fd43a1b3a92c237ca0cd97f52119c3260
+[submodule "onetime"]
+	path = onetime
+	url = https://github.com/hughjonesd/onetime
+	branch = *release
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
@@ -267,6 +323,10 @@
 	path = rJavaEnv
 	url = https://github.com/e-kotov/rJavaEnv
 	branch = cce4a2bb65d891c3e9ba0194a67451de87a2a3ae
+[submodule "rcheology"]
+	path = rcheology
+	url = https://github.com/hughjonesd/rcheology
+	branch = *release
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
@@ -287,10 +347,19 @@
 	path = rwasm
 	url = https://github.com/r-wasm/rwasm
 	branch = 005588296e03080357c7140c1eaf8b47ccabe0bc
+[submodule "santoku"]
+	path = santoku
+	url = https://github.com/hughjonesd/santoku
+	branch = *release
 [submodule "saperlipopette"]
 	path = saperlipopette
 	url = https://github.com/ropensci-training/saperlipopette
 	branch = eb09bef3fcb017b5fcd6215acf199d9f528cacfc
+[submodule "sdplyr"]
+	path = sdplyr
+	url = https://github.com/apache/sedona-db
+	branch = *release
+	subdir = r/sdplyr
 [submodule "secretbase"]
 	path = secretbase
 	url = https://github.com/shikokuchuo/secretbase
@@ -300,6 +369,11 @@
 	url = https://github.com/apache/sedona-db
 	branch = apache-sedona-db-0.4.0
 	subdir = r/sedonadb
+[submodule "sedonafns"]
+	path = sedonafns
+	url = https://github.com/apache/sedona-db
+	branch = *release
+	subdir = r/sedonafns
 [submodule "shinystan"]
 	path = shinystan
 	url = https://github.com/stan-dev/shinystan
@@ -348,6 +422,10 @@
 	path = trelliscope
 	url = https://github.com/trelliscope/trelliscope
 	branch = 99dfb29c0057680ecf92ed2b061dd833cfd667f8
+[submodule "truelies"]
+	path = truelies
+	url = https://github.com/hughjonesd/truelies
+	branch = *release
 [submodule "unigd"]
 	path = unigd
 	url = https://github.com/nx10/unigd
