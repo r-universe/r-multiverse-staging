@@ -20,10 +20,6 @@
     "releasetag": true
   },
   {
-    "package": "biorecap",
-    "releasetag": true
-  },
-  {
     "package": "bootstrapper",
     "releasetag": true
   },

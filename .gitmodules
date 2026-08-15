@@ -85,7 +85,7 @@
 [submodule "biorecap"]
 	path = biorecap
 	url = https://github.com/stephenturner/biorecap
-	branch = v0.2.0
+	branch = 20dcdd9ea6fbca2a061b123ef56e5f1b94380644
 [submodule "bootstrapper"]
 	path = bootstrapper
 	url = https://github.com/VisruthSK/bootstrapper
