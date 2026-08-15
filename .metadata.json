@@ -112,10 +112,6 @@
     "releasetag": true
   },
   {
-    "package": "Rmlx",
-    "releasetag": true
-  },
-  {
     "package": "RmlxStats",
     "releasetag": true
   },

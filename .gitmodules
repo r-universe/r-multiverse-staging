@@ -17,7 +17,7 @@
 [submodule "Rmlx"]
 	path = Rmlx
 	url = https://github.com/hughjonesd/Rmlx
-	branch = v0.4.0
+	branch = 3cbc7a9ee26575c5ab7b716a19787e6a651d97fb
 [submodule "RmlxStats"]
 	path = RmlxStats
 	url = https://github.com/hughjonesd/RmlxStats
