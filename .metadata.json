@@ -76,10 +76,6 @@
     "releasetag": true
   },
   {
-    "package": "litedown",
-    "releasetag": true
-  },
-  {
     "package": "loneliness",
     "releasetag": true
   },

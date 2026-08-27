@@ -230,7 +230,7 @@
 [submodule "litedown"]
 	path = litedown
 	url = https://github.com/yihui/litedown
-	branch = v0.11
+	branch = 2728086ff2a412a86eda6ecd31b26185e53af540
 [submodule "loneliness"]
 	path = loneliness
 	url = https://github.com/humaniverse/loneliness
