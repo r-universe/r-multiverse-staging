@@ -48,10 +48,6 @@
     "releasetag": true
   },
   {
-    "package": "geotargets",
-    "releasetag": true
-  },
-  {
     "package": "ggmagnify",
     "releasetag": true
   },
@@ -64,15 +60,7 @@
     "releasetag": true
   },
   {
-    "package": "igraph",
-    "releasetag": true
-  },
-  {
     "package": "IMD",
-    "releasetag": true
-  },
-  {
-    "package": "jagstargets",
     "releasetag": true
   },
   {
@@ -129,18 +117,6 @@
   },
   {
     "package": "stantargets",
-    "releasetag": true
-  },
-  {
-    "package": "tarchetypes",
-    "releasetag": true
-  },
-  {
-    "package": "targets",
-    "releasetag": true
-  },
-  {
-    "package": "targetsketch",
     "releasetag": true
   },
   {

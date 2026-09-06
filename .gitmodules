@@ -158,7 +158,7 @@
 [submodule "geotargets"]
 	path = geotargets
 	url = https://github.com/ropensci/geotargets
-	branch = v0.3.1
+	branch = 719c095fac40cf13466ffbe147664f7d19a84352
 [submodule "ggmagnify"]
 	path = ggmagnify
 	url = https://github.com/hughjonesd/ggmagnify
@@ -210,11 +210,11 @@
 [submodule "igraph"]
 	path = igraph
 	url = https://github.com/igraph/rigraph
-	branch = v2.3.3
+	branch = a1b77d04e27b676e88c306db883f71ecd625b912
 [submodule "jagstargets"]
 	path = jagstargets
 	url = https://github.com/ropensci/jagstargets
-	branch = 1.2.3
+	branch = fef92d0d74f6e9832459ce4bee69396bca21fd3f
 [submodule "jiebaRS"]
 	path = jiebaRS
 	url = https://github.com/Yousa-Mirage/jiebaRS
@@ -387,15 +387,15 @@
 [submodule "tarchetypes"]
 	path = tarchetypes
 	url = https://github.com/ropensci/tarchetypes
-	branch = 0.14.1
+	branch = 020909b152e81f5891242672a3c2ef42312cfc2b
 [submodule "targets"]
 	path = targets
 	url = https://github.com/ropensci/targets
-	branch = 1.12.0
+	branch = e65b01c27bc38f45760e7bb52ef021f1656b9846
 [submodule "targetsketch"]
 	path = targetsketch
 	url = https://github.com/wlandau/targetsketch
-	branch = 0.0.1
+	branch = a199a734b16f91726698a19e5f147f57f79cb2b6
 [submodule "taxizedb"]
 	path = taxizedb
 	url = https://github.com/ropensci/taxizedb
