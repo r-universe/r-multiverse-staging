@@ -16,10 +16,6 @@
     "releasetag": true
   },
   {
-    "package": "bedrockbio",
-    "releasetag": true
-  },
-  {
     "package": "bootstrapper",
     "releasetag": true
   },
@@ -33,10 +29,6 @@
   },
   {
     "package": "demographr",
-    "releasetag": true
-  },
-  {
-    "package": "duckdb",
     "releasetag": true
   },
   {
