@@ -99,6 +99,10 @@
 	path = californiaalw
 	url = https://github.com/asafichaki/californiaalw
 	branch = 34529f9aa4641e3dae7acc1e27281526e5b0907a
+[submodule "cidian"]
+	path = cidian
+	url = https://github.com/Yousa-Mirage/r-cidian
+	branch = *release
 [submodule "cli"]
 	path = cli
 	url = https://github.com/r-lib/cli
@@ -280,6 +284,10 @@
 	path = onetime
 	url = https://github.com/hughjonesd/onetime
 	branch = e36294db9b20ec964487b251fd76306c890d3891
+[submodule "permittimelines"]
+	path = permittimelines
+	url = https://github.com/asafichaki/permittimelines
+	branch = *release
 [submodule "polars"]
 	path = polars
 	url = https://github.com/pola-rs/r-polars
@@ -325,6 +333,10 @@
 	path = rcheology
 	url = https://github.com/hughjonesd/rcheology
 	branch = 12527ceae89b6a348a1c42b01f91afe456ae25f4
+[submodule "retroglyph"]
+	path = retroglyph
+	url = https://github.com/wlandau/retroglyph
+	branch = *release
 [submodule "riem"]
 	path = riem
 	url = https://github.com/ropensci/riem
