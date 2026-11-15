@@ -92,10 +92,6 @@
     "releasetag": true
   },
   {
-    "package": "prqlr",
-    "releasetag": true
-  },
-  {
     "package": "retroglyph",
     "releasetag": true
   },
